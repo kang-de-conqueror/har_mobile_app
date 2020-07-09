@@ -1,6 +1,6 @@
 # Heritage at Risk
 
-![Evolve Design - Heritage at Risk Logo](backgound_heritage_at_risk.jpg)
+![Evolve Design - Heritage at Risk Logo](./resources/backgound_heritage_at_risk.jpg)
 (Heritage at Risk Logo; [Evolve Design](http://www.evolvedesign.co.uk/portfolio/english-heritage-heritage-risk/); Jonathan Hawkes, Marianne Westergaard)
 
 [Heritage at risk](https://en.wikipedia.org/wiki/Heritage_at_risk) is term for cultural heritage assets that are at risk as a result of neglect, decay or inappropriate development, or are vulnerable to becoming so.
